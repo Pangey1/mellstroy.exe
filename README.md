@@ -1,4 +1,4 @@
-#Mellstroy.exe
+@Mellstroy.exe
 ________________
 
 My new GDI malware in C++
