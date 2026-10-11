@@ -1,0 +1,7 @@
+﻿  mellstroy-safety.cpp
+V:\mellstroy-safety\mellstroy-safety\mellstroy-safety.cpp(105,118): warning C4554: '>>': проверьте приоритет операторов на предмет возможных ошибок; используйте скобки для уточнения приоритета
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 78 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  mellstroy-safety.vcxproj -> V:\mellstroy-safety\Release\mellstroy-safety.exe
