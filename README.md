@@ -1,5 +1,5 @@
-@Mellstroy.exe
-________________
+                             Mellstroy.exe
+            _______________________________________________
 
 My new GDI malware in C++
 Created in 2026 MSVC compiler
